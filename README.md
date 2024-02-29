@@ -7,7 +7,7 @@
 
 - 🌱 I’m interested in **Data analytics & Business Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arvind-kumarr](https://github.com/Arvind-kumarr)
+- 👨‍💻 All of my projects are available at [https://github.com/Arvind-kumarr]([https://github.com/Arvind-kumarr](https://github.com/Arvind-kumarr))
 
 - 💬 Ask me about **Data Analysis, Advance Excel, Power BI, tableau, Python,Sql**
 
