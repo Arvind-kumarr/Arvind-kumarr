@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Arvind-kumarr?tab=repositories
 
-- 💬 Ask me about **Data Analysis, Advance Excel, Power BI, tableau, Python,Sql**
+- 💬 Ask me about **Data Analysis,business Analytics, Advance Excel, Power BI, tableau, Python,Sql**
 
 - 📫 How to reach me **arvindkumar0322@gmail.com**
 
