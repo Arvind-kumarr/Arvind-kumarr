@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arvind-kumar-22b405213/" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/03/95/39/16/360_F_395391650_6LfU41V5A4WIhdTis899OaF7wXVgThgP.jpg" alt="https://www.linkedin.com/in/arvind-kumar-22b405213/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arvind-kumar-22b405213/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="https://www.linkedin.com/in/arvind-kumar-22b405213/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/arvindkumar0322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/arvindkumar0322" height="30" width="40" /></a>
 <a href="https://www.novypro.com/profile_about/arvind-kumar" target="blank"><img align="center" src="https://leads.com.bd/wp-content/uploads/2022/07/c3dd704c81992b31070c472d338ba18e.png" alt="https://www.hackerrank.com/profile/arvindkumar0322" height="30" width="40" /></a>
 </p>
