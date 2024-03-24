@@ -15,8 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arvind-kumar-22b405213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arvind-kumar-22b405213/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arvind-kumar-22b405213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/arvindkumar0322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/arvindkumar0322" height="30" width="40" /></a>
+<a href="https://www.novypro.com/profile_about/arvind-kumar" target="blank"><img align="center" src="https://leads.com.bd/wp-content/uploads/2022/07/c3dd704c81992b31070c472d338ba18e.png" alt="https://www.hackerrank.com/profile/arvindkumar0322" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
